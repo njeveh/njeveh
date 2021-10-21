@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @njeveh
-- 👀 I’m interested in everything computer science
+- 👀 I’m interested in everything to do with computer science
 - 🌱 I’m currently pursuing a bachelors degree in computer science.
-- 💞️ I’m looking to collaborate on a website development project; PHP, Javascript, html, css
+- 💞️ I’m looking to collaborate on a website development project; Python/Django, PHP/Laravel, Javascript/react/jquery, html, css
 - 📫 you can reach me via njeveh@gmail.com
 
 <!---
