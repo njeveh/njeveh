@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elijah
 - 👀 I’m a Computer Science enthusiast.
-- 🌱 I’m currently pursuing a bachelors degree in computer science and working remotely on hire basis.
-- 💞️ I’m looking to collaborate on a software development projects; C/C++, Java, Python/Django, PHP/Laravel, Javascript/react/jquery, html, css
+- 🌱 I’m currently pursuing a bachelors degree in computer science at JKUAT and working remotely on hire basis.
+- 💞️ I’m looking to collaborate on software development projects involving C/C++, Java, Python/Django, PHP/Laravel, Javascript/react/jquery, html, css/bootsrap
 - 📫 you can reach me via ekilonzi.cs@gmail.com
 
 <!---
