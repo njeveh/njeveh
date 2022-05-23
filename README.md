@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elijah
 - 👀 I’m a Computer Science enthusiast.
-- 🌱 I’m currently pursuing a bachelors degree in computer science at JKUAT and working remotely on hire basis.
+- 🌱 I’m currently pursuing a bachelors degree in computer science at JKUAT and working remotely on hire/contractual basis.
 - 💞️ I’m looking to collaborate on software development projects involving C/C++, Java, Python/Django, PHP/Laravel, Javascript/react/jquery, html, css/bootsrap
 - 📫 you can reach me via ekilonzi.cs@gmail.com
 
